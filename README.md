@@ -1,4 +1,4 @@
-# AdaEuropeTutorial
+# Ada Europe 2021 Tutorial
 
 The four folders correspond to the four parts of an online tutorial,
 at the Ada Europe 2021 conference, on 7 June 2021,
